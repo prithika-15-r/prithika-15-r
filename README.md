@@ -1,112 +1,144 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=700&lines=Initializing+Profile...;Hello+World+👋;I'm+Prithika+R;Computer+Science+Student;Aspiring+Cybersecurity+Engineer;Exploring+Systems+and+Security" />
-</p>
+<!-- Typing Animation Header -->
 
-<img align="center" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<div align="center">
 
-<h1 align="left">👋 Hi, I'm <strong>Prithika R</strong></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=Initializing+profile...;%24+whoami+%E2%86%92+Prithika+R;Computer+Science+Student;Aspiring+Cybersecurity+Engineer;Curious+about+how+systems+break.)](https://git.io/typing-svg)
 
-<h3>
-💻 Computer Science Student <br>
-🔐 Aspiring Cybersecurity Engineer
-</h3>
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+</div>
 
 ---
 
-## 🧠 About Me
+```
+╔══════════════════════════════════════════════════════════════╗
+║  prithika@terminal:~$ cat profile.txt                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- 🎓 Computer Science student  
-- 🔐 Curious about **cybersecurity and how systems work**
-- 🧪 Passionate about **building projects and exploring new technologies**
-- 🌱 Currently learning **network security, databases, and system fundamentals**
-- 🎯 Goal: Become a **Cybersecurity Engineer**
+<div align="center">
 
-📍 India  
-📧 prithikar1506@gmail.com  
+## `Prithika R`
 
----
+**Computer Science Student · Aspiring Cybersecurity Engineer**
 
-# 🌐 Connect With Me
+`📍 India` | `🔐 Security-Focused` | `🛠️ Builder`
 
-<p align="left">
-
-<a href="mailto:prithikar1506@gmail.com">
-<img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/prithika-15-r">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 🛠 Tech Stack
+## `$ cat about_me.txt`
 
-### 💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c"/>
-</p>
+```yaml
+name        : Prithika R
+role        : CS Student | Aspiring Cybersecurity Engineer
+interests   : [ "System Security", "Network Analysis", "Vulnerability Research" ]
+learning    : [ "Ethical Hacking", "CTF Challenges", "Penetration Testing" ]
+philosophy  : "Understand the system. Then break it. Then fix it."
+status      : Open to learning, collaborating, and exploring
+```
 
-### 🌐 Web
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
-
-### 🗄 Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-- SQL  
-- Relational Databases
-
-### 🔐 Cybersecurity
-- Nmap
-- Networking Fundamentals
-- Security Concepts
-
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
+> Curious about cybersecurity and how systems work behind the scenes.  
+> Passionate about building projects and exploring new technologies.
 
 ---
 
-# 📊 GitHub Stats
+## `$ ls skills/`
 
-<p align="center">
+### Languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=prithika-15-r&show_icons=true&theme=tokyonight&hide_border=true"/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
 
-<br>
+### Web Technologies
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prithika-15-r&theme=tokyonight&hide_border=true"/>
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-</p>
+### Databases
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prithika-15-r&theme=tokyo-night"/>
-</p>
-
----
-
-# 🚀 Currently Exploring
-
-- Cybersecurity Fundamentals  
-- Network Security  
-- Cryptography Basics  
-- Database Security  
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Relational_DB](https://img.shields.io/badge/Relational_DB-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
 
 ---
 
-<p align="center">
-⚡ Exploring systems • Understanding vulnerabilities • Learning security
-</p>
+## `$ ls tools/`
+
+### Security
+
+![Nmap](https://img.shields.io/badge/Nmap-Network_Scanner-0d1117?style=flat-square&logo=linux&logoColor=00FF41)
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+## `$ cat stats.log`
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=prithika-15-r&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithika-15-r&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prithika-15-r&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+
+</div>
+
+---
+
+## `$ tail -f activity.log`
+
+<div align="center">
+
+[![Prithika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prithika-15-r&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `$ cat /proc/currently_exploring`
+
+```diff
++ Ethical Hacking fundamentals & methodology
++ CTF (Capture The Flag) challenges
++ Network security & packet analysis with Wireshark
++ Linux internals and privilege escalation
++ Web application vulnerabilities (OWASP Top 10)
+```
+
+---
+
+## `$ cat contact.txt`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/prithikar1506%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&label=Mail)](mailto:prithikar1506@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/prithika-15-r)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  prithika@terminal:~$ exit                                   ║
+║  "The quieter you become, the more you are able to hear."    ║
+║                                          — Kali Linux        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=prithika-15-r&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
